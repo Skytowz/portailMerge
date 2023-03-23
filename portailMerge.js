@@ -31,5 +31,4 @@
         }
         show = !show;
     })
-     // Your code here...
 })();
