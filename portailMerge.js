@@ -7,6 +7,8 @@
 // @match        http://portail.leaderinfo.com:8080/portail/pendingMergers.do*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=leaderinfo.com
 // @grant        none
+// @updateURL    https://github.com/Skytowz/portailMerge/blob/main/portailMerge.js
+// @downloadURL  https://github.com/Skytowz/portailMerge/blob/main/portailMerge.js
 // ==/UserScript==
 
 (function() {
